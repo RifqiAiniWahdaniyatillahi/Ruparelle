@@ -33,7 +33,7 @@ Ruparelle was developed collaboratively as part of a team project.
 
 ## Project Screenshots
 
-Screenshots of the website will be added to showcase the project's visual design and implementation.
+![Ruparelle Website Preview](ruparelle.png)
 
 ---
 
